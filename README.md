@@ -1,6 +1,6 @@
 ### Some useful conferences in cybersecurity:
 
-`### [+] #DEFCON`
+### `[+] #DEFCON`
 - https://defcon.org/
 
 `### [+] #BLACKHAT`
