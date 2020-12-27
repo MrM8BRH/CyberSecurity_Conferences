@@ -1,7 +1,4 @@
-# CyberSecurity_Conferences
-List of some cybersecurity conferences :
-
-Some useful #conferences in #cybersecurity:
+### Some useful #conferences in #cybersecurity:
 
 `### [+] #DEFCON`
 - https://defcon.org/
