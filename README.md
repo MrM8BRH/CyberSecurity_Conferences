@@ -1,4 +1,4 @@
-### Some useful #conferences in #cybersecurity:
+### Some useful conferences in cybersecurity:
 
 `### [+] #DEFCON`
 - https://defcon.org/
