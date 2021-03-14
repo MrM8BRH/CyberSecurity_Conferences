@@ -47,3 +47,16 @@
 
 #### `[+] ICISPP`
 - http://icispp.org/
+
+#### `[+] OffensiveCon`
+- https://www.offensivecon.org/
+
+#### `[+] GrrCon`
+- https://grrcon.com/
+
+#### `[+] SecTor`
+- https://sector.ca/
+
+#### `[+] ChiCyberCon`
+- https://chicybercon.com/
+
