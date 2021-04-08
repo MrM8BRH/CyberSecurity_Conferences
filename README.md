@@ -1,5 +1,14 @@
 ### Some great cybersecurity conferences
 
+#### `[+] CanSecWest - Pwn2Own`
+- https://cansecwest.com/
+
+#### `technosecurit`
+- https://www.technosecurity.us/
+
+#### `SANS Open-Source Intelligence Summit`
+- https://www.sans.org/event/osint-summit-2021
+
 #### `[+] DEFCON`
 - https://defcon.org/
 
