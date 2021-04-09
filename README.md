@@ -2,6 +2,7 @@
 
 #### `[+] CanSecWest - Pwn2Own`
 - https://cansecwest.com/
+- https://www.zerodayinitiative.com/blog
 
 #### `[+] TechnoSecurity`
 - https://www.technosecurity.us/
