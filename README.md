@@ -1,4 +1,4 @@
-### Some great cybersecurity conferences
+### List of some cybersecurity conferences.
 
 #### `[+] CanSecWest - Pwn2Own`
 - https://cansecwest.com/
