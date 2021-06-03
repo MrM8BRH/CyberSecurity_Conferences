@@ -28,6 +28,9 @@
 #### `[+] CYPHERCON`
 - https://cyphercon.com/
 
+#### `[+] BlackHillsInfoSec`
+- https://www.blackhillsinfosec.com/
+
 #### `[+] MalwareAnalystConference`
 - https://www.malwareanalystconference.com/
 
