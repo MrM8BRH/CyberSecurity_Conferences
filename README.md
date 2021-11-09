@@ -73,3 +73,29 @@
 #### `[+] ChiCyberCon`
 - https://chicybercon.com/
 
+#### `[+] HackFest`
+- https://hackfest.ca/en/
+
+#### `[+] AfricaHackOn`
+- https://conference.africahackon.com/
+
+#### `[+] SteelCon`
+- https://www.aisc.org/nascc
+
+#### `[+] NullCon`
+- https://nullcon.net/
+
+#### `[+] hardwear.io`
+- https://hardwear.io/
+
+#### `[+] hack.lu`
+- https://hack.lu/
+
+#### `[+] Elbsides`
+- https://elbsides.de/
+
+#### `[+] BSidesMunich`
+- https://2021.bsidesmunich.org/
+
+#### `[+] HITB`
+- https://conference.hitb.org/
