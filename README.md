@@ -99,3 +99,6 @@
 
 #### `[+] HITB`
 - https://conference.hitb.org/
+
+#### `[+] WhiteHatDesert`
+- https://whitehatdesert.com/
