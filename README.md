@@ -1,101 +1,38 @@
 ### List of some cybersecurity conferences.
 
-#### `[+] CanSecWest - Pwn2Own`
-- https://cansecwest.com/
-- https://www.zerodayinitiative.com/blog
-
-#### `[+] TechnoSecurity`
-- https://www.technosecurity.us/
-
-#### `[+] SANS Open-Source Intelligence Summit`
-- https://www.sans.org/event/osint-summit-2021
-
-#### `[+] DEFCON`
-- https://defcon.org/
-
-#### `[+] BLACKHAT`
-- https://www.blackhat.com/
-
-#### `[+] BRUCON`
-- https://www.brucon.org/2021/
-
-#### `[+] ArabSecurityConference`
-- https://www.arabsecurityconference.com/
-
-#### `[+] OSDFCONF`
-- https://www.osdfcon.org/
-
-#### `[+] CYPHERCON`
-- https://cyphercon.com/
-
-#### `[+] BlackHillsInfoSec`
-- https://www.blackhillsinfosec.com/
-
-#### `[+] MalwareAnalystConference`
-- https://www.malwareanalystconference.com/
-
-#### `[+] OFFZONE`
-- https://www.offzone.moscow/
-
-#### `[+] RUHRSEC`
-- https://www.ruhrsec.de/2020/
-
-#### `[+] NSEC`
-- https://www.nsec.io/
-
-#### `[+] CYCON`
-- https://www.cycon.org/
-
-#### `[+] InfoSecurityEurope`
-- https://www.infosecurityeurope.com/
-
-#### `[+] c0c0n`
-- https://me.c0c0n.org/home
-
-#### `[+] hackinparis`
-- https://hackinparis.com/
-
-#### `[+] WISEC2020`
-- https://wisec2020.ins.jku.at/
-
-#### `[+] ICISPP`
-- http://icispp.org/
-
-#### `[+] OffensiveCon`
-- https://www.offensivecon.org/
-
-#### `[+] GrrCon`
-- https://grrcon.com/
-
-#### `[+] SecTor`
-- https://sector.ca/
-
-#### `[+] ChiCyberCon`
-- https://chicybercon.com/
-
-#### `[+] HackFest`
-- https://hackfest.ca/en/
-
-#### `[+] AfricaHackOn`
-- https://conference.africahackon.com/
-
-#### `[+] SteelCon`
-- https://www.aisc.org/nascc
-
-#### `[+] NullCon`
-- https://nullcon.net/
-
-#### `[+] hardwear.io`
-- https://hardwear.io/
-
-#### `[+] hack.lu`
-- https://hack.lu/
-
-#### `[+] Elbsides`
-- https://elbsides.de/
-
-#### `[+] BSidesMunich`
-- https://2021.bsidesmunich.org/
-
-#### `[+] HITB`
-- https://conference.hitb.org/
+| Conference                                     | Website                                          |
+|------------------------------------------------|--------------------------------------------------|
+| CanSecWest                                     | [Link](https://cansecwest.com/)                   |
+| Pwn2Own                                        | [Link](https://www.zerodayinitiative.com/blog)    |
+| TechnoSecurity                                 | [Link](https://www.technosecurity.us/)            |
+| SANS Open-Source Intelligence Summit            | [Link](https://www.sans.org/event/osint-summit-2021) |
+| DEFCON                                         | [Link](https://defcon.org/)                       |
+| BLACKHAT                                       | [Link](https://www.blackhat.com/)                  |
+| BRUCON                                         | [Link](https://www.brucon.org/2021/)               |
+| ArabSecurityConference                         | [Link](https://www.arabsecurityconference.com/)   |
+| OSDFCONF                                       | [Link](https://www.osdfcon.org/)                   |
+| CYPHERCON                                      | [Link](https://cyphercon.com/)                     |
+| BlackHillsInfoSec                              | [Link](https://www.blackhillsinfosec.com/)         |
+| MalwareAnalystConference                       | [Link](https://www.malwareanalystconference.com/)  |
+| OFFZONE                                        | [Link](https://www.offzone.moscow/)                |
+| RUHRSEC                                        | [Link](https://www.ruhrsec.de/2020/)               |
+| NSEC                                           | [Link](https://www.nsec.io/)                       |
+| CYCON                                          | [Link](https://www.cycon.org/)                     |
+| InfoSecurityEurope                             | [Link](https://www.infosecurityeurope.com/)        |
+| c0c0n                                          | [Link](https://me.c0c0n.org/home)                  |
+| hackinparis                                    | [Link](https://hackinparis.com/)                   |
+| WISEC2020                                      | [Link](https://wisec2020.ins.jku.at/)              |
+| ICISPP                                         | [Link](http://icispp.org/)                         |
+| OffensiveCon                                   | [Link](https://www.offensivecon.org/)              |
+| GrrCon                                         | [Link](https://grrcon.com/)                        |
+| SecTor                                         | [Link](https://sector.ca/)                         |
+| ChiCyberCon                                    | [Link](https://chicybercon.com/)                   |
+| HackFest                                       | [Link](https://hackfest.ca/en/)                    |
+| AfricaHackOn                                   | [Link](https://africahackon.com/)                  |
+| SteelCon                                       | [Link](https://www.aisc.org/nascc)                 |
+| NullCon                                        | [Link](https://nullcon.net/)                       |
+| hardwear.io                                    | [Link](https://hardwear.io/)                       |
+| hack.lu                                        | [Link](https://hack.lu/)                           |
+| Elbsides                                       | [Link](https://elbsides.de/)                       |
+| BSidesMunich                                   | [Link](https://2021.bsidesmunich.org/)             |
+| HITB                                           | [Link](https://conference.hitb.org/)               |
