@@ -14,6 +14,7 @@
 | CYPHERCON                                      | [Link](https://cyphercon.com/)                     |
 | BlackHillsInfoSec                              | [Link](https://www.blackhillsinfosec.com/)         |
 | MalwareAnalystConference                       | [Link](https://www.malwareanalystconference.com/)  |
+| WhiteHatDesert                                 | [Link](https://whitehatdesert.com/)
 | OFFZONE                                        | [Link](https://www.offzone.moscow/)                |
 | RUHRSEC                                        | [Link](https://www.ruhrsec.de/2020/)               |
 | NSEC                                           | [Link](https://www.nsec.io/)                       |
