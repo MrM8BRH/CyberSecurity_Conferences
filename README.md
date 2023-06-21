@@ -2,6 +2,7 @@
 
 | Conference                                     | Website                                          |
 |------------------------------------------------|--------------------------------------------------|
+| ATT&CKcon 3.0                                  | [Link](https://www.mitre.org/events/attackcon-2022)|
 | CanSecWest                                     | [Link](https://cansecwest.com/)                   |
 | Pwn2Own                                        | [Link](https://www.zerodayinitiative.com/blog)    |
 | TechnoSecurity                                 | [Link](https://www.technosecurity.us/)            |
