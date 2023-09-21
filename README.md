@@ -12,6 +12,7 @@
 | BLACKHAT                                       | [Link](https://www.blackhat.com/)                  |
 | BRUCON                                         | [Link](https://www.brucon.org/2021/)               |
 | ArabSecurityConference                         | [Link](https://www.arabsecurityconference.com/)   |
+| Qatar Cyber Assurance Conference               | [Link](https://www.eventbrite.com/e/qatar-cyber-assurance-conference-tickets-695163943067?aff=ebdssbdestsearch) |
 | OSDFCONF                                       | [Link](https://www.osdfcon.org/)                   |
 | CYPHERCON                                      | [Link](https://cyphercon.com/)                     |
 | BlackHillsInfoSec                              | [Link](https://www.blackhillsinfosec.com/)         |
