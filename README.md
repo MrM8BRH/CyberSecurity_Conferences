@@ -3,14 +3,14 @@
 | Conference                                     | Website                                          |
 |------------------------------------------------|--------------------------------------------------|
 | GNU Radio Conference                           | [Link](https://events.gnuradio.org/event/21/)    |
-| ATT&CKcon 3.0                                  | [Link](https://www.mitre.org/events/attackcon-2022)|
+| ATT&CKcon 3.0                                  | [Link](https://www.mitre.org/events/attackcon-4)|
 | CanSecWest                                     | [Link](https://cansecwest.com/)                   |
 | Pwn2Own                                        | [Link](https://www.zerodayinitiative.com/blog)    |
 | TechnoSecurity                                 | [Link](https://www.technosecurity.us/)            |
-| SANS Open-Source Intelligence Summit            | [Link](https://www.sans.org/event/osint-summit-2021) |
+| SANS Open-Source Intelligence Summit            | [Link](https://www.sans.org/cyber-security-summit/) |
 | DEFCON                                         | [Link](https://defcon.org/)                       |
 | BLACKHAT                                       | [Link](https://www.blackhat.com/)                  |
-| BRUCON                                         | [Link](https://www.brucon.org/2021/)               |
+| BRUCON                                         | [Link](https://www.brucon.org/2023/)               |
 | ArabSecurityConference                         | [Link](https://www.arabsecurityconference.com/)   |
 | Qatar Cyber Assurance Conference               | [Link](https://www.eventbrite.com/e/qatar-cyber-assurance-conference-tickets-695163943067?aff=ebdssbdestsearch) |
 | OSDFCONF                                       | [Link](https://www.osdfcon.org/)                   |
@@ -40,3 +40,15 @@
 | Elbsides                                       | [Link](https://elbsides.de/)                       |
 | BSidesMunich                                   | [Link](https://2021.bsidesmunich.org/)             |
 | HITB                                           | [Link](https://conference.hitb.org/)               |
+| RSA Conference                                | [Link](https://www.rsaconference.com/)            |
+| THOTCON                                        | [Link](https://www.thotcon.org/)                   |
+| PHDays                                         | [Link](https://phdays.com/en/)                    |
+| IEEE Security & Privacy                         | [Link](https://www.ieee-security.org/TC/SP2023/)  |
+| LayerOne                                       | [Link](https://www.layerone.org/)                 |
+| RaicesCon                                      | [Link](https://www.raicescon.org/)                |
+| FIRST Conference                               | [Link](https://www.first.org/conference/2023/)    |
+| IT-SA Expo & Congress                          | [Link](https://www.itsa365.de/en/it-sa-expo-congress) |
+| AuthenticateCon                                | [Link](https://authenticatecon.com/)              |
+| Gaming and Hospitality Security Conference     | [Link](https://nativenationevents.org/events-conferences/fifth-annual-gaming-and-hospitality-security-conference/#details) |
+| Global AppSec San Francisco                     | [Link](https://sf.globalappsec.org/)              |
+
