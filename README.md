@@ -12,7 +12,7 @@
 | CanSecWest                                     | [Link](https://cansecwest.com/)                   |
 | Pwn2Own                                        | [Link](https://www.zerodayinitiative.com/blog)    |
 | TechnoSecurity                                 | [Link](https://www.technosecurity.us/)            |
-| SANS Open-Source Intelligence Summit            | [Link](https://www.sans.org/cyber-security-summit/) |
+| SANS Open-Source Intelligence Summit           | [Link](https://www.sans.org/cyber-security-summit/) |
 | DEFCON                                         | [Link](https://defcon.org/)                       |
 | BLACKHAT                                       | [Link](https://www.blackhat.com/)                  |
 | BRUCON                                         | [Link](https://www.brucon.org/2023/)               |
@@ -45,15 +45,23 @@
 | Elbsides                                       | [Link](https://elbsides.de/)                       |
 | BSidesMunich                                   | [Link](https://2021.bsidesmunich.org/)             |
 | HITB                                           | [Link](https://conference.hitb.org/)               |
-| RSA Conference                                | [Link](https://www.rsaconference.com/)            |
+| RSA Conference                                 | [Link](https://www.rsaconference.com/)            |
 | THOTCON                                        | [Link](https://www.thotcon.org/)                   |
 | PHDays                                         | [Link](https://phdays.com/en/)                    |
-| IEEE Security & Privacy                         | [Link](https://www.ieee-security.org/TC/SP2023/)  |
+| IEEE Security & Privacy                        | [Link](https://www.ieee-security.org/TC/SP2023/)  |
 | LayerOne                                       | [Link](https://www.layerone.org/)                 |
 | RaicesCon                                      | [Link](https://www.raicescon.org/)                |
 | FIRST Conference                               | [Link](https://www.first.org/conference/2023/)    |
 | IT-SA Expo & Congress                          | [Link](https://www.itsa365.de/en/it-sa-expo-congress) |
 | AuthenticateCon                                | [Link](https://authenticatecon.com/)              |
 | Gaming and Hospitality Security Conference     | [Link](https://nativenationevents.org/events-conferences/fifth-annual-gaming-and-hospitality-security-conference/#details) |
-| Global AppSec San Francisco                     | [Link](https://sf.globalappsec.org/)              |
-
+| Global AppSec San Francisco                    | [Link](https://sf.globalappsec.org/)              |
+| Techsponyc                                     | [Link](https://techsponyc.com/)                  |
+| zer0con                                        | [Link](https://zer0con.org/)                    |
+| Power of Community                             | [Link](https://powerofcommunity.net/)           |
+| CS4CA MENA                                     | [Link](https://mena.cs4ca.com/)                 |
+| Linux Foundation Events                        | [Link](https://events.linuxfoundation.org/)    |
+| Gartner Conferences                            | [Link](https://www.gartner.com/en/conferences/calendar) |
+| CyberC                                         | [Link](https://cyberc.org/)                     |
+| hack.sydney                                    | [Link](https://www.hack.sydney/)                |
+| CypherCon                                      | [Link](https://cyphercon.com/)                 |
