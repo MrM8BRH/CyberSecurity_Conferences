@@ -4,8 +4,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/mrm8brh/CyberSecurity_Conferences)](https://github.com/mrm8brh/CyberSecurity_Conferences/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/mrm8brh/CyberSecurity_Conferences)](https://github.com/mrm8brh/CyberSecurity_Conferences/issues)
 [![GitHub forks](https://img.shields.io/github/forks/mrm8brh/CyberSecurity_Conferences)](https://github.com/mrm8brh/CyberSecurity_Conferences/forks)
-[![GitHub forks](https://img.shields.io/github/watchers/mrm8brh/CyberSecurity_Conferences)](https://github.com/mrm8brh/CyberSecurity_Conferences/watchers)
-[![GitHub forks](https://img.shields.io/github/license/mrm8brh/CyberSecurity_Conferences)](https://github.com/MrM8BRH/CyberSecurity_Conferences/blob/master/LICENSE)
+[![GitHub watchers](https://img.shields.io/github/watchers/mrm8brh/CyberSecurity_Conferences)](https://github.com/mrm8brh/CyberSecurity_Conferences/watchers)
+[![GitHub license](https://img.shields.io/github/license/mrm8brh/CyberSecurity_Conferences)](https://github.com/MrM8BRH/CyberSecurity_Conferences/blob/master/LICENSE)
 [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
   
 </div>
