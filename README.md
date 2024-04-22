@@ -21,6 +21,7 @@
 
 | Conference                                     | Website                                          |
 |------------------------------------------------|--------------------------------------------------|
+| GISEC Global                                   | [Link](https://www.gisec.ae/)                    |
 | GNU Radio Conference                           | [Link](https://events.gnuradio.org/event/21/)    |
 | ATT&CKcon 3.0                                  | [Link](https://www.mitre.org/events/attackcon-4) |
 | REcon                                          | [Link](https://recon.cx/)                        |
