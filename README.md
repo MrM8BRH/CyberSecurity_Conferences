@@ -36,6 +36,7 @@
 | ArabSecurityConference                         | [Link](https://www.arabsecurityconference.com/)  |
 | Qatar Cyber Assurance Conference               | [Link](https://www.eventbrite.com/e/qatar-cyber-assurance-conference-tickets-695163943067?aff=ebdssbdestsearch) |
 | OSDFCONF                                       | [Link](https://www.osdfcon.org/)                 |
+| JSAC                                           | [Link](https://jsac.jpcert.or.jp/)               |
 | CYPHERCON                                      | [Link](https://cyphercon.com/)                   |
 | BlackHillsInfoSec                              | [Link](https://www.blackhillsinfosec.com/)       |
 | MalwareAnalystConference                       | [Link](https://www.malwareanalystconference.com/)|
