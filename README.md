@@ -22,6 +22,7 @@
 | Conference                                     | Website                                          |
 |------------------------------------------------|--------------------------------------------------|
 | OSINTCon                                       | [Link](https://osintconference.com/)             |
+| Fal.Con                                        | [Link](https://www.crowdstrike.com/en-us/events/fal-con/las-vegas/)             |
 | VulnCon                                        | [Link](https://vulncon.in/)                      |
 | Layer 8 Conference                             | [Link](https://layer8conference.com/)            |
 | GITEX Global                                   | [Link](https://www.gitex.com/)                   |
