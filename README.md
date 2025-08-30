@@ -21,6 +21,7 @@
 
 | Conference                                     | Website                                          |
 |------------------------------------------------|--------------------------------------------------|
+| LABScon                                        | [Link](https://www.labscon.io/)                  |
 | OSINTCon                                       | [Link](https://osintconference.com/)             |
 | Fal.Con                                        | [Link](https://www.crowdstrike.com/en-us/events/fal-con/las-vegas/)             |
 | VulnCon                                        | [Link](https://vulncon.in/)                      |
