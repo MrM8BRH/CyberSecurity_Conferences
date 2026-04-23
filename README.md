@@ -77,6 +77,7 @@ Comprehensive, categorized list of cybersecurity conferences.
 | CS4CA MENA                        | MENA        | https://mena.cs4ca.com                                                  |
 | Qatar Cyber Assurance Conference  | MENA        | https://www.eventbrite.com/e/qatar-cyber-assurance-conference-tickets-695163943067 |
 | WhiteHatDesert                    | MENA        | https://whitehatdesert.com                                              |
+| DunaSec                           | South America | https://dunasec.com.br/                                               |
 | c0c0n                             | Asia        | https://me.c0c0n.org/home                                               |
 | hack.lu                           | Europe      | https://hack.lu                                                         |
 | BRUCON                            | Europe      | https://www.brucon.org                                                  |
